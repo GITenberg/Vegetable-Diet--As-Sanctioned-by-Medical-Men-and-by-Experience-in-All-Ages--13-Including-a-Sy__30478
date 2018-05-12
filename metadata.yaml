@@ -1,0 +1,43 @@
+_repo: Vegetable-Diet--As-Sanctioned-by-Medical-Men-and-by-Experience-in-All-Ages--13-Including-a-Sy__30478
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alcott, William A. (William Andrus)
+    alias: Alcott, William Andrus
+    birthdate: 1798
+    deathdate: 1859
+    gutenberg_agent_id: '2959'
+    url: http://www.gutenberg.org/2009/agents/2959
+    wikipedia: http://en.wikipedia.org/wiki/William_Alcott
+description: '"First published in Boston in 1838, this volume in the American Antiquarian
+  Cookbook Collection is a facsimile edition of one of the first American books to
+  advocate a vegetarian diet (vegan, actually), by a founding member of the first
+  vegetarian organization, the American Vegetarian Society. The dedicated lifestyle
+  philosophy advocated in Alcott''s Vegetable Diet might have been written by a contemporary
+  vegetarian food critic. Alcott''s complete disdain for meat and all animal products
+  consumed as food would, in fact, be called a vegan diet. His book focuses on the
+  superiority of a vegetable diet for supporting health and recovering from disease,
+  and it contains dozens of letters testifying to that belief by various medical experts
+  and many citizens who report in great detail the benefits of the vegetable diet
+  for their health and lifestyle"--Amazon.com, viewed December 17, 2012.'
+gutenberg_bookshelf:
+- Cookery
+- Technology
+gutenberg_issued: '2009-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Food'
+- !lcsh 'Vegetarianism'
+- !lcc 'TX'
+title: "Vegetable Diet: As Sanctioned by Medical Men, and by Experience in All Ages\r\
+  \nIncluding a System of Vegetable Cookery"
+url: http://www.gutenberg.org/ebooks/30478
